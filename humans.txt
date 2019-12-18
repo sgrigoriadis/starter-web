@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stavros Grigoriadis	stavros101@hotmail.com @awesome
 
 # THANKS
 
